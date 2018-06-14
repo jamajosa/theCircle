@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LiveVideoBroadcaster-master.iml" filepath="$PROJECT_DIR$/LiveVideoBroadcaster-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/liveVideoBroadcasterSDK/liveVideoBroadcasterSDK.iml" filepath="$PROJECT_DIR$/liveVideoBroadcasterSDK/liveVideoBroadcasterSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theCircle.iml" filepath="$PROJECT_DIR$/theCircle.iml" />
     </modules>
   </component>
 </project>
